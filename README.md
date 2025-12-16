@@ -57,7 +57,7 @@ Las variables de salida pueden ser:
 4. **Evaluación del Modelo**
 
    * R2: 80%
-   * Error Cuadratico Medio (MSE): 22%
+   * Error Cuadratico Medio (MSE): 22
 
 ## Tecnologías Utilizadas
 
